@@ -1,0 +1,12 @@
+name = "Selena"
+license = "GNU3.0"
+licenselink = ""
+description = "Clean, responsive, minimalist"
+homepage = ""
+tags = ["blog", "portfolio", "gallery", "minimalist", "responsive", "bootstrap"]
+features = ["blog", "portfolio", "google analytics"]
+min_version = 0.19
+
+[author]
+    name = ""
+    homepage = ""
